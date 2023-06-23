@@ -1,0 +1,1 @@
+This is a number guessing game in which we have to choose a number between 1 to 100 , for choosing correct number we have only 15 attempts. First of all we have to give user name for playing the name.
